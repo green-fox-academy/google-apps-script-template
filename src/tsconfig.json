@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "noEmitOnError": true,
+    "target": "ES3",
+    "lib": ["esnext", "dom"],
+    "types": ["google-apps-script"]
+  }
+}
